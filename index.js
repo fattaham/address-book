@@ -1,1 +1,3 @@
-console.log("Hello World!");
+const myAge = 27;
+
+console.log(myAge);
