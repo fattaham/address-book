@@ -28,3 +28,11 @@ console.log(result); // true
 console.log("Z" > "A"); // true
 
 console.log("Bee" > "Be"); //true
+
+const message = ["Hello", "World"];
+
+const nameA = "John 'Master' Cena";
+
+let name = "John";
+
+let age = 20;
